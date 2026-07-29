@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "launch": "Kryptic Loader.exe",
   "message": "New loader update downloaded.\n\nClick OK to close this loader.\nThe new loader will open — run it as Administrator.",
   "files": [
