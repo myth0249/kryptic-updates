@@ -1,0 +1,19 @@
+{
+  "version": "1.0.2",
+  "launch": "Kryptic Loader.exe",
+  "message": "New loader update downloaded.\n\nClick OK to close this loader.\nThe new loader will open — run it as Administrator.",
+  "files": [
+    {
+      "path": "Kryptic Loader.exe",
+      "url": "https://raw.githubusercontent.com/myth0249/kryptic-updates/main/updates/files/Kryptic%20Loader.exe"
+    },
+    {
+      "path": "ReadME.md",
+      "url": "https://raw.githubusercontent.com/myth0249/kryptic-updates/main/updates/files/ReadME.md"
+    },
+    {
+      "path": "version.txt",
+      "url": "https://raw.githubusercontent.com/myth0249/kryptic-updates/main/updates/files/version.txt"
+    }
+  ]
+}
