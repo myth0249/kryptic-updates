@@ -6,8 +6,9 @@
 **[+] Fixed:** Aimbot (uworld cam now)
 **[+] Fixed:** Improved Radar
 **[+] Fixed:** Improved Clicks,Dropdowns,Sliders
+**[+] Fixed:** Auth problem
 
 
 **[-] Removed:** nothing 😊
 
-If you were just updated, re-open the new 1.0.4 loader **as Administrator**.
+If you were just updated, re-open the new 1.0.5 loader **as Administrator**.
