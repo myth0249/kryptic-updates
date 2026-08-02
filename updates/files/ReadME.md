@@ -1,14 +1,20 @@
-# Kryptic
+# Kryptic 1.0.6
 
-**[+] Added:** Faster Refresh ESP boxes to the new logic.
-**[+] Fixed:** ESP Boxes
-**[+] Fixed:** PlayerArray (was encrypted in v41.30)
-**[+] Fixed:** Aimbot (uworld cam now)
-**[+] Fixed:** Improved Radar
-**[+] Fixed:** Improved Clicks,Dropdowns,Sliders
-**[+] Fixed:** Auth problem
+**[+] Added:** License plan + time-left HUD (bottom-left + Settings)
+**[+] Added:** Filled FOV circle
+**[+] Added:** Aim snapline to lock-on bone
+**[+] Added:** Box / Skeleton Visible & Not Visible colors
+**[+] Added:** Aimbot visible check (fast mesh + UWorld times)
+**[+] Added:** Lobby visuals loop (level actor scan)
+**[+] Fixed:** ESP boxes sticking when turning / running
+**[+] Fixed:** ESP box sizing (original head-centered math)
+**[+] Fixed:** Skeleton delay / left-side clipping
+**[+] Fixed:** Overlay hides when tabbed out, returns on focus
+**[+] Fixed:** Player name decrypt (PlayerNamePrivate + CustomOverride)
+**[+] Fixed:** Bot detection via bIsABot
+**[+] Fixed:** Radar forward = top of radar
+**[+] Fixed:** Auth / timed keys
 
+**[-] Removed:** nothing
 
-**[-] Removed:** nothing 😊
-
-If you were just updated, re-open the new 1.0.5 loader **as Administrator**.
+If you were just updated, re-open the new **1.0.6** loader **as Administrator**.
