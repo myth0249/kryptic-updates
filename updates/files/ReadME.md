@@ -1,20 +1,15 @@
-# Kryptic 1.0.6
+# Kryptic 1.0.7
 
-**[+] Added:** License plan + time-left HUD (bottom-left + Settings)
-**[+] Added:** Filled FOV circle
-**[+] Added:** Aim snapline to lock-on bone
-**[+] Added:** Box / Skeleton Visible & Not Visible colors
-**[+] Added:** Aimbot visible check (fast mesh + UWorld times)
-**[+] Added:** Lobby visuals loop (level actor scan)
-**[+] Fixed:** ESP boxes sticking when turning / running
-**[+] Fixed:** ESP box sizing (original head-centered math)
-**[+] Fixed:** Skeleton delay / left-side clipping
-**[+] Fixed:** Overlay hides when tabbed out, returns on focus
-**[+] Fixed:** Player name decrypt (PlayerNamePrivate + CustomOverride)
-**[+] Fixed:** Bot detection via bIsABot
-**[+] Fixed:** Radar forward = top of radar
-**[+] Fixed:** Auth / timed keys
+**[+] Added:** ESP Distance slider (50m–3000m) on Visuals
+**[+] Added:** Skeleton Distance slider
+**[+] Added:** Snapline / Aim Snapline to nearest player at cursor (no aim key needed)
+**[+] Fixed:** ESP sticking / ghost boxes (live bone double-buffer pick)
+**[+] Fixed:** Boxes following behind players when jumping / turning
+**[+] Fixed:** Far ESP cutoff (~50m) — boxes / skeleton / names draw at full distance
+**[+] Fixed:** ESP Distance slider showing 0m
+**[+] Fixed:** UWorld camera first + PC FOV (0x374) for sticky W2S
+**[+] Fixed:** Behind-camera W2S no longer parks junk boxes
 
 **[-] Removed:** nothing
 
-If you were just updated, re-open the new **1.0.6** loader **as Administrator**.
+If you were just updated, re-open the new **1.0.7** loader **as Administrator**.
