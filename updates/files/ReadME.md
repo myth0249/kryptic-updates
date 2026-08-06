@@ -1,15 +1,11 @@
-# Kryptic 1.0.7
+# Kryptic 1.0.8
 
-**[+] Added:** ESP Distance slider (50m–3000m) on Visuals
-**[+] Added:** Skeleton Distance slider
-**[+] Added:** Snapline / Aim Snapline to nearest player at cursor (no aim key needed)
-**[+] Fixed:** ESP sticking / ghost boxes (live bone double-buffer pick)
-**[+] Fixed:** Boxes following behind players when jumping / turning
-**[+] Fixed:** Far ESP cutoff (~50m) — boxes / skeleton / names draw at full distance
-**[+] Fixed:** ESP Distance slider showing 0m
-**[+] Fixed:** UWorld camera first + PC FOV (0x374) for sticky W2S
-**[+] Fixed:** Behind-camera W2S no longer parks junk boxes
+**[+] Updated:** Fortnite 20260805 offsets (GWorld / UWorld / camera 0x170-0x180)
+**[+] Updated:** GWorld decrypt + GNames / GObjects RVAs
+**[+] Fixed:** Player name decrypt (fname DecryptBytes from dump)
+**[+] Fixed:** Lobby actor scan via ActorCluster
+**[+] Kept:** Sticky ESP / bones / snapline / ESP distance from 1.0.7
 
 **[-] Removed:** nothing
 
-If you were just updated, re-open the new **1.0.7** loader **as Administrator**.
+If you were just updated, re-open the new **1.0.8** loader **as Administrator**.
